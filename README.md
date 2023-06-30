@@ -1,7 +1,7 @@
 
 # Conway's Game of Life
 
-![Game of Life Logo](game-of-life.png)
+![Game of Life Logo](game-of-life.PNG)
 
 Welcome to Conway's Game of Life! This is a Java implementation of the famous cellular automaton devised by the mathematician John Horton Conway.
 
