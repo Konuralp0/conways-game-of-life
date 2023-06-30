@@ -1,4 +1,4 @@
-# conways-game-of-life
+
 # Conway's Game of Life
 
 ![Game of Life Logo](game_of_life_logo.png)
